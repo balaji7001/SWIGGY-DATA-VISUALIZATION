@@ -136,6 +136,17 @@ Business Intelligence Learning
 ```
 # Dashboard Preview
 
+# Get Started
+
+<img width="900" height="700" alt="image" src="https://github.com/balaji7001/SWIGGY-DATA-VISUALIZATION/blob/main/Get%20Started.png" />
+
+# Home Page
+
+<img width="900" height="700" alt="image" src="https://github.com/balaji7001/SWIGGY-DATA-VISUALIZATION/blob/main/HomePage.png" />
+
+# OverView
+
+<img width="900" height="700" alt="image" src="https://github.com/balaji7001/SWIGGY-DATA-VISUALIZATION/blob/main/Overview.png" />
 
 
 # 📌 Conclusion
